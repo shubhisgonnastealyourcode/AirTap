@@ -1,4 +1,4 @@
-# AirTap
+<img width="1026" height="585" alt="image" src="https://github.com/user-attachments/assets/d00b1245-c648-43d2-a6eb-460047d48da5" /># AirTap
 A smart wearable bracelet that tracks wrist orientation and detects pinch gestures in real time, enabling intuitive hands-free control of PCs and other devices using BLE communication, motion sensing, haptic feedback, and natural gesture-based interaction.
 
 
